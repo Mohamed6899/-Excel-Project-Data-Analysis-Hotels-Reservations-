@@ -2,7 +2,7 @@
 ## This project covers the analysis of reservation requests for hotels around the world  
 ### The Data Used In This Project Is Mainly (Arriving Date, Reservation Market segment, Reservation Distribution Channel, ADP (Average Day Price), And Canceled Reservations) With a Time Map For The Highest Reservation Time Used To answer these Questions:
 ![image](https://github.com/Mohamed6899/Hotels-Reservations-Data-Analysis-Project-Using-Excel-/assets/126211110/d9cb75d7-dc1c-41a6-add0-681a22ea7d10)  
-<img width="1232" alt="image" src="https://github.com/Mohamed6899/Hotels-Reservations-Data-Analysis-Project-Using-Excel-/assets/126211110/9125fdf3-6233-49ae-ab35-bd8c429f49e2">
+<img width="984" alt="image" src="https://github.com/Mohamed6899/Hotels-Reservations-Data-Analysis-Project-Using-Excel-/assets/126211110/52fbb30b-f47d-4e4c-8bc9-bc3c7c918741">
 
 ![image](https://github.com/Mohamed6899/Hotels-Reservations-Data-Analysis-Project-Using-Excel-/assets/126211110/5781079d-3dae-41f6-ad90-eaeebf7381b9)
 <img width="875" alt="image" src="https://github.com/Mohamed6899/Hotels-Reservations-Data-Analysis-Project-Using-Excel-/assets/126211110/3a9520c6-04fc-4780-936a-440f3619ffa8">
