@@ -27,7 +27,7 @@
 
 
 ## Dashboard
-<img width="770" alt="image" src="https://github.com/Mohamed6899/Hotels-Reservations-Data-Analysis-Project-Using-Excel-/assets/126211110/7479fc34-0b05-4b39-86a6-a8fe05e01733">
+<img width="541" alt="image" src="https://github.com/Mohamed6899/-Excel-Project-Data-Analysis-Hotels-Reservations-/assets/126211110/7b81310e-636e-4f4e-a368-c1b9e9e8bf82">
 
 		
 
